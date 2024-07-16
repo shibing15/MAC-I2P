@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_kitti_pc_cla.py --train_batch_size=8 --num_point=40960 --num_workers=8 --save_path=./runs/kitti_pc_cla_norm_voxel_nosiamese_vfc_40960_256 --lr=0.0001
