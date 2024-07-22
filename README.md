@@ -1,2 +1,2 @@
 # MMI2P
-the code for paper "M2I2P: Image-to-Point Cloud Registration with Modality Approximation and Multi-Stage Matching"
+the code for paper "MAC-I2P: I2P Registration with Modality Approximation and Cone-Block-Point Matching"
